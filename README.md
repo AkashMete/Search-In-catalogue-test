@@ -1,4 +1,4 @@
 # Search-In-catalogue-test
-This is a catalogue front end test 1 code
+## This is a catalogue front end test 1 code
 
-Contains product of different categories.🔥🚀
+Contains products of different categories.🔥🚀
